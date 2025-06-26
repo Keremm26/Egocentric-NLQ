@@ -21,6 +21,8 @@ This project includes two main Jupyter notebooks:
 
 -   **`egovlp_vslnet_extension.ipynb`**: This notebook extends the baseline by implementing and evaluating the VSLNet model with EgoVLP features. It also contains the analysis using the Video-LLaVA model on a manually annotated subset of queries, with results evaluated using metrics such as BLEU and ROUGE.
 
+-   **Note:** GitHub may have trouble rendering the interactive outputs in this notebook. For a guaranteed perfect view, please use [nbviewer](https://nbviewer.org/github/Keremm26/Egocentric-NLQ/blob/main/notebooks/egovlp_vslnet_extension.ipynb).
+
 ## Getting Started
 
 Follow these steps to set up and run the project notebooks. The project can be run on Google Colab or on a local machine.
