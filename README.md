@@ -68,5 +68,5 @@ This project is based on the Ego4D NLQ benchmark and the VSLNet baseline model. 
 
 -   **Baseline Repo:** [EGO4D/episodic-memory/tree/main/NLQ/VSLNet](https://github.com/EGO4D/episodic-memory/tree/main/NLQ/VSLNet)
 -   **Ego4D Docs:** [ego4d-data.org/docs/benchmarks/episodic-memory/](https://ego4d-data.org/docs/benchmarks/episodic-memory/)
--   **EvalAI Challenge:** [eval.ai/web/challenges/challenge-page/1629/overview](https://eval.ai/web/challenges/challenge-page/1629/overview)
+
 
